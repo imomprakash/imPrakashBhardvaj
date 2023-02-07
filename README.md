@@ -15,7 +15,7 @@
 
 - ❤️ Love contributing in Open Source specially in @GoogleChrome,
 
-- 📫 How to reach me **Kumaromprakash.info@gmail.com**
+- 📫  **Kumaromprakash.info@gmail.com**
 
 - 👨‍💻 **I am a crazy boy but towards my work.💪**
 
@@ -24,7 +24,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/om_prakas1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="om_prakas1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/om-prakash-kumar-a49b66200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/om-prakash-kumar-a49b66200/" height="30" width="40" /></a>
+
+  
 <a href="https://instagram.com/prakash_bhardvaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakash_bhardvaj" height="30" width="40" /></a>
 </p>
 
