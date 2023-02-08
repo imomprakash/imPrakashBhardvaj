@@ -1,14 +1,12 @@
 
-
-
-
+![Logo image 1](https://user-images.githubusercontent.com/91632687/217560278-d53e9032-a043-445c-9f4b-7ee0aa8892f2.jpg)
 
 <h1 align="center">Hey,👋 I'm Om Prakash</h1>
 <h3 align="center"> I'm a  Front-End Developer from India</h3>
 
 
-
-<img align="right" alt="coding" width="350" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img align="right" alt="coding" width="350" 
+     src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imomprakash&label=Profile%20views&color=0e75b6&style=flat" alt="imomprakash" /> </p>
 
