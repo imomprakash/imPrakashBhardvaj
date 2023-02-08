@@ -29,7 +29,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:kumaromprakash.info@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/BzG8QoD.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.me/prakash_bhardvaj"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266__340.jpg"></a>
+  <a href="https://Ins.me/prakash_bhardvaj"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266__340.jpg"></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
