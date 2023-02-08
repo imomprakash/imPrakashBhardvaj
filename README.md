@@ -27,9 +27,9 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/om-prakash-kumar-a49b66200/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:kumaromprakash.info@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/BzG8QoD.png"/></a>
+  <a href="mailto:kumaromprakash.info@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/BzG8QoD.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/Om_prakas1"><img width="32px" alt="Telegram" title="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"/></a>
+  <a href="https://Instagram.me/prakash_bhardvaj"><img width="32px" alt="Instagram" title="Instagram" src="https://www.vectorlogo.zone/logos/intagram/instagram-icon.svg"></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
