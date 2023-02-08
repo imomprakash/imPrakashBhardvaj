@@ -23,13 +23,13 @@
 
    <h3 align="left">Connect with me:</h3>
    <p align="left">
-   <a href="https://twitter.com/imLakshay08"><img width="32px" alt="Twitter" title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/>    </a>
+   <a href="https://twitter.com/om_prakas1"><img width="32px" alt="Twitter" title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/>    </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/imlakshay08/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
+  <a href="https://www.linkedin.com/in/om-prakash-kumar-a49b66200/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:tyagilakshay119@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/BzG8QoD.png"/></a>
+  <a href="mailto:kumaromprakash.info@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/BzG8QoD.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/imLakshay08"><img width="32px" alt="Telegram" title="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"/></a>
+  <a href="https://t.me/Om_prakas1"><img width="32px" alt="Telegram" title="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
