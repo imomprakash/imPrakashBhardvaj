@@ -30,9 +30,8 @@
    <a href="https://t.me/Om_prakas1"><img width="32px" alt="Telegram" title="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://Ins.me/prakash_bhardvaj"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266__340.jpg"></a>
-   &#8287;&#8287;&#8287;&#8287;&#8287;
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+   
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
