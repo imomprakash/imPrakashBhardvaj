@@ -64,7 +64,13 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imomprakash&show_icons=true&locale=en&layout=compact" alt="imomprakash" /></p>
+<h2><details><summary> 💻📊 GitHub Profile Stats
+  </summary><br/>
+<p align="center">
+ 
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imomprakash&show_icons=true&locale=en&layout=compact" alt="imomprakash" /></p>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imomprakash&show_icons=true&locale=en" alt="imomprakash" /></p>
 
