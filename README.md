@@ -21,14 +21,17 @@
 
 - ⚡ Fun fact **😉i'm a clown boy**😒
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/om_prakas1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="om_prakas1" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/om-prakash-kumar-a49b66200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/om-prakash-kumar-a49b66200" height="30" width="40" /></a>
-
-
-<a href="https://instagram.com/prakash_bhardvaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakash_bhardvaj" height="30" width="40" /></a>
+   <h3 align="left">Connect with me:</h3>
+   <p align="left">
+   <a href="https://twitter.com/imLakshay08"><img width="32px" alt="Twitter" title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/>    </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/imlakshay08/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:tyagilakshay119@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/BzG8QoD.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://t.me/imLakshay08"><img width="32px" alt="Telegram" title="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"/></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
