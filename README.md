@@ -22,15 +22,15 @@
 - 👨‍💻 **I am a crazy boy but towards my work.💪**
 
 - ⚡ Fun fact **😉i'm a clown boy**😒
-
-   <h3 align="left">Connect with me:</h3>
-   <p align="left">
-   <a href="https://twitter.com/om_prakas1"><img width="32px" alt="Twitter" title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/>    </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/om-prakash-kumar-a49b66200/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://t.me/Om_prakas1"><img width="32px" alt="Telegram" title="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"/></a>
+ 
+ <h3 align="left">Find out more about me & feel free to connect with me here ::</h3>
+  <p align="left">
+   <a href="https://twitter.com/om_prakas1"><img width="32px" alt="Twitter" title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/>     </a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://www.linkedin.com/in/om-prakash-kumar-a49b66200/"><img width="32px" alt="LinkedIn" title="LinkedIn"                src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://t.me/Om_prakas1"><img width="32px" alt="Telegram" title="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287; 
 </p>
 
@@ -68,10 +68,10 @@
   </summary><br/>
 <p align="center">
  
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imomprakash&show_icons=true&locale=en&layout=compact" alt="imomprakash" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imomprakash&show_icons=true&locale=en" alt="imomprakash" /></p>
+ 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imomprakash&show_icons=true&locale=en&layout=compact" alt="imomprakash" />
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imomprakash&show_icons=true&locale=en" alt="imomprakash" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imomprakash&" alt="imomprakash" /></p>
+ </p>
+ 
+</details><br/> 
