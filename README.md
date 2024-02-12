@@ -1,5 +1,5 @@
 
-![Logo image 1](https://drive.google.com/file/d/1nR3O0hgwNTDhbEZBKCn-KBidxNtAaJTI/view?usp=sharing)
+![Logo image 1](https://drive.google.com/file/d/1nR3O0hgwNTDhbEZBKCn-KBidxNtAaJTI/view)
 
 <h1 align="center">Hey,👋 I'm Om Prakash</h1>
 <h3 align="center"> I'm a  Front-End Developer from India</h3>
