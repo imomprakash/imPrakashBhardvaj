@@ -1,5 +1,5 @@
 
-![Logo image 1](https://user-images.githubusercontent.com/91632687/217560278-d53e9032-a043-445c-9f4b-7ee0aa8892f2.jpg)
+![Logo image 1](https://drive.google.com/file/d/1nR3O0hgwNTDhbEZBKCn-KBidxNtAaJTI/view?usp=sharing)
 
 <h1 align="center">Hey,👋 I'm Om Prakash</h1>
 <h3 align="center"> I'm a  Front-End Developer from India</h3>
